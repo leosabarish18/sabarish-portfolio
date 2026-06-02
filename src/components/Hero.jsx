@@ -24,7 +24,7 @@ function Hero() {
           </a>
 
           <a
-            href="/resume/Sree_Sabarish_AI_Resume.pdf"
+            href="/resume/Sree_Sabarish_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-cyan-500 px-8 py-4 rounded-xl hover:bg-cyan-500 hover:text-black transition"
